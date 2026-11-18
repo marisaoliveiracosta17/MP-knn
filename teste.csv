@@ -1,0 +1,21 @@
+id,entrada,saida_esperada,dificuldade,observacao
+1,ele me ameaça com faca sempre que bebe e já cortou minha mão semana passada,urgente,facil,
+2,"Meu ex disse que vai me matar, mas faz anos que ele fala isso e nunca fez nada",urgente,dificil,ambiguo
+3,Fui estuprada pelo meu chefe e tenho medo de denunciar,urgente,facil,
+4,meu mardio ta me batendo e disse q vai pegar a arma dele,urgente,dificil,erro_digitacao
+5,"Ele quebrou minha porta e entrou, estou escondida no quarto com as crianças",urgente,facil,
+6,Meu filho adulto me agrede e já me empurrou da escada,urgente,dificil,fora_do_padrao
+7,"Ele descumpriu a ordem, mas só mandou mensagem pedindo desculpa",urgente,dificil,ambiguo
+8,Sofro violência psicológica há anos e ontem ele disse que se eu sair de casa vai me achar,urgente,dificil,ambiguo
+9,O pai do meu filho tem acesso a arma e vive dizendo que vai fazer uma besteira,urgente,dificil,ambiguo
+10,"Estou sendo perseguida, ele sabe meu horário e onde eu vou",urgente,facil,
+11,Meu ex me xingou no grupo da família e disse que eu era traidora,nao_urgente,facil,
+12,"Quero medida protetiva porque ele me xingou, mas ele nunca me ameaçou nem encostou em mim",nao_urgente,dificil,ambiguo
+13,como eu faço pra pedir medida protetivva contra meu ex,nao_urgente,dificil,erro_digitacao
+14,"Meu marido não me dá dinheiro para comprar comida, só deixa o básico",nao_urgente,facil,
+15,"Ele fica me ligando 30 vezes por dia, mas só pede pra voltar",nao_urgente,dificil,ambiguo
+16,Posso pedir a medida em nome de uma amiga que sofre violência?,nao_urgente,dificil,fora_do_padrao
+17,Minha vizinha me chamou de vagabunda na rua na frente de todos,nao_urgente,facil,
+18,Quero saber se a medida protetiva vale em outra cidade,nao_urgente,facil,
+19,Meu ex retirou o dinheiro da nossa conta conjunta e sumiu com minhas joias,nao_urgente,facil,
+20,"Ele rasgou minhas roupas durante a briga, mas depois saiu de casa",nao_urgente,dificil,ambiguo
